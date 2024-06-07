@@ -27,6 +27,16 @@ Este projeto foi desenvolvido por:
 
 ## Montagem do Circuito 📐
 
+🔎 - Circuito realizado no Wokwi:
+
+<img width="664" alt="Screenshot 2024-06-07 at 20 41 35" src="https://github.com/yurisilpess/edge-GS/assets/99032447/9a522cce-e569-46c1-b498-93535836fe5d">
+
+-----------
+🎥 Vídeo de explicação:
+
+https://github.com/yurisilpess/edge-GS/assets/99032447/0605d8a2-6b5a-48a3-97d7-08e0119a0f73
+
+
 ### Conectando o Sensor Ultrassônico HC-SR04:
 - VCC -> 5V no Arduino
 - GND -> GND no Arduino
